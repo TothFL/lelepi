@@ -1,6 +1,6 @@
 /*
 File: MainFrame.java
-Author: Tóth Fedor László
+Author: Tóth Fedor László, SzoftI2E
 Copyright: 2023, Tóth Fedor László
 Date: 2023.05.23
 Web: https://github.com/TothFL
