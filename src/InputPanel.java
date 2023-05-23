@@ -1,3 +1,10 @@
+/*
+File: App.java
+Author: Tóth Fedor László
+Copyright: 2023, Tóth Fedor László
+Date: 2023.05.23
+Web: https://github.com/TothFL
+*/
 
 import javax.swing.BoxLayout;
 import javax.swing.JLabel;
