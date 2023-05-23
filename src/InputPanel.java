@@ -1,5 +1,5 @@
 /*
-File: App.java
+File: InputPanel.java
 Author: Tóth Fedor László
 Copyright: 2023, Tóth Fedor László
 Date: 2023.05.23

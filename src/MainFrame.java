@@ -1,5 +1,5 @@
 /*
-File: App.java
+File: MainFrame.java
 Author: Tóth Fedor László
 Copyright: 2023, Tóth Fedor László
 Date: 2023.05.23
